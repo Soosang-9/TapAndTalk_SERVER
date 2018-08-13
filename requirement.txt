@@ -1,3 +1,4 @@
+awscli=1.15.32
 boto3==1.7.32
 google-cloud-speech==0.34.0
 gTTS==1.2.2
